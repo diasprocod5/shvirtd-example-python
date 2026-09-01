@@ -8,6 +8,6 @@ LICENSE
 proxy.yaml
 *.md
 *.pdf
-
+*.sh
 nginx/
 haproxy/
